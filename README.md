@@ -1,4 +1,6 @@
-# Company-resiliency by Babak Yazdi & Kamyar Bagha
+# Company-resiliency 
+
+by Babak Yazdi & Kamyar Bagha
 
 
 
